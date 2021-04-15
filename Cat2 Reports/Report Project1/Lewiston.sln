@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.1300
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Lewiston Shipping", "Report Project1\Lewiston Shipping.rptproj", "{29BB92E6-8748-420B-8C85-7A9AA76D1014}"
 EndProject
-Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Lewiston Inventory", "Lewiston Inventory\Lewiston Inventory.rptproj", "{5EFF5A22-0559-47BA-A41F-2B24FF6D8395}"
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Lewiston Egg Inventory", "Lewiston Inventory\Lewiston Egg Inventory.rptproj", "{5EFF5A22-0559-47BA-A41F-2B24FF6D8395}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
