@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="CAT2_DS_PSCW">
+  <ConnectionProperties>
+    <Extension>OLEDB-MD</Extension>
+    <ConnectString>Data Source=SQL19-P;Initial Catalog=PPTS-PASCO-W</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>8a184947-121b-48ef-95d1-220bba33c34b</DataSourceID>
+</RptDataSource>
