@@ -7,6 +7,8 @@ Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Lewiston Shipping", "Report
 EndProject
 Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Lewiston Egg Inventory", "Lewiston Inventory\Lewiston Egg Inventory.rptproj", "{5EFF5A22-0559-47BA-A41F-2B24FF6D8395}"
 EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Pasco West Dry Goods Inventory", "..\PWW-DGInv\Pasco West Dry Goods Inventory\Pasco West Dry Goods Inventory.rptproj", "{F71D6AE4-5BB3-4855-B701-8850A4807C4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Default = Debug|Default
@@ -30,6 +32,14 @@ Global
 		{5EFF5A22-0559-47BA-A41F-2B24FF6D8395}.Release|Default.ActiveCfg = Release
 		{5EFF5A22-0559-47BA-A41F-2B24FF6D8395}.Release|Default.Build.0 = Release
 		{5EFF5A22-0559-47BA-A41F-2B24FF6D8395}.Release|Default.Deploy.0 = Release
+		{F71D6AE4-5BB3-4855-B701-8850A4807C4C}.Debug|Default.ActiveCfg = Debug
+		{F71D6AE4-5BB3-4855-B701-8850A4807C4C}.Debug|Default.Build.0 = Debug
+		{F71D6AE4-5BB3-4855-B701-8850A4807C4C}.Debug|Default.Deploy.0 = Debug
+		{F71D6AE4-5BB3-4855-B701-8850A4807C4C}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{F71D6AE4-5BB3-4855-B701-8850A4807C4C}.DebugLocal|Default.Build.0 = DebugLocal
+		{F71D6AE4-5BB3-4855-B701-8850A4807C4C}.Release|Default.ActiveCfg = Release
+		{F71D6AE4-5BB3-4855-B701-8850A4807C4C}.Release|Default.Build.0 = Release
+		{F71D6AE4-5BB3-4855-B701-8850A4807C4C}.Release|Default.Deploy.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
