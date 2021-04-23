@@ -54,42 +54,5 @@
   <ItemGroup>
     <DataSource Include="Cat2_DS.rds" />
   </ItemGroup>
-  <ItemGroup>
-    <Report Include="Bill of Lading.rdl" />
-    <Report Include="Customer Master Listing.rdl" />
-    <Report Include="Customer Order Requirements.rdl" />
-    <Report Include="Customer Order Requirements_v2.rdl" />
-    <Report Include="Daily Shipping Report.rdl" />
-    <Report Include="Day Lot Recall Report.rdl" />
-    <Report Include="Detailed List of Products Loaded to Client with Age.rdl" />
-    <Report Include="Dry Goods Recall (SUB) - Inventory (EIM).rdl" />
-    <Report Include="Dry Goods Recall (SUB) - OnHand (EIM).rdl" />
-    <Report Include="Dry Goods Recall (SUB) - PutonsRePacks (EIM).rdl" />
-    <Report Include="Dry Goods Recall (SUB) - Shipped (EIM).rdl" />
-    <Report Include="Dry Goods Recall Report.rdl" />
-    <Report Include="Load Grid Report.rdl" />
-    <Report Include="Load Manifest.rdl" />
-    <Report Include="Load Order Egg Inventory Report.rdl" />
-    <Report Include="Lot_Recall_Report_(SUB)_Inventory.rdl" />
-    <Report Include="Lot_Recall_Report_(SUB)_PutonsRePacks.rdl" />
-    <Report Include="Lot_Recall_Report_(SUB)_Shipped.rdl" />
-    <Report Include="Order Detail Report.rdl" />
-    <Report Include="Order Requirements by Presentation.rdl" />
-    <Report Include="Order Requirements Summary.rdl" />
-    <Report Include="Pallets Reserved For Open Loads.rdl" />
-    <Report Include="Product Age Report Loaded to Customer.rdl" />
-    <Report Include="Product list Loaded to Clients with Age.rdl" />
-    <Report Include="Product Order Requirements - Heads up Display.rdl" />
-    <Report Include="Product Order Requirements - Minus Shipped Orders.rdl" />
-    <Report Include="Product Order Requirements - With On Hand.rdl" />
-    <Report Include="Product Order Requirements Report.rdl" />
-    <Report Include="Route Sheet Lewiston.rdl" />
-    <Report Include="Scan Summary Bar Codes.rdl" />
-    <Report Include="Scan Summary Report.rdl" />
-    <Report Include="Ship History Report.rdl" />
-    <Report Include="TEST.rdl" />
-    <Report Include="Transferred Pallets In Transit.rdl" />
-    <Report Include="Want Sheet Lewiston.rdl" />
-  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>

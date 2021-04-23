@@ -9,6 +9,14 @@ Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Lewiston Egg Inventory", "L
 EndProject
 Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Pasco West Dry Goods Inventory", "..\PWW-DGInv\Pasco West Dry Goods Inventory\Pasco West Dry Goods Inventory.rptproj", "{F71D6AE4-5BB3-4855-B701-8850A4807C4C}"
 EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Lewiston Master Data", "Lewiston Master\Lewiston Master Data.rptproj", "{2C6D6E6C-9C13-4323-B1C4-EC05D7D733DC}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Lewiston Dry Goods Inventory", "Lewiston Dry Goods Inventory\Lewiston Dry Goods Inventory.rptproj", "{FB412871-8CFB-433A-B7CE-B1BA04C86C3F}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Lewiston Kiosk", "Lewiston Kiosk\Lewiston Kiosk.rptproj", "{52B7D151-18CC-4662-95D6-FBA203C5AAD3}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Lewiston Production", "Lewiston Production\Lewiston Production.rptproj", "{0DD17BF4-ED62-4E82-8471-B9A1DF1677A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Default = Debug|Default
@@ -40,6 +48,38 @@ Global
 		{F71D6AE4-5BB3-4855-B701-8850A4807C4C}.Release|Default.ActiveCfg = Release
 		{F71D6AE4-5BB3-4855-B701-8850A4807C4C}.Release|Default.Build.0 = Release
 		{F71D6AE4-5BB3-4855-B701-8850A4807C4C}.Release|Default.Deploy.0 = Release
+		{2C6D6E6C-9C13-4323-B1C4-EC05D7D733DC}.Debug|Default.ActiveCfg = Debug
+		{2C6D6E6C-9C13-4323-B1C4-EC05D7D733DC}.Debug|Default.Build.0 = Debug
+		{2C6D6E6C-9C13-4323-B1C4-EC05D7D733DC}.Debug|Default.Deploy.0 = Debug
+		{2C6D6E6C-9C13-4323-B1C4-EC05D7D733DC}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{2C6D6E6C-9C13-4323-B1C4-EC05D7D733DC}.DebugLocal|Default.Build.0 = DebugLocal
+		{2C6D6E6C-9C13-4323-B1C4-EC05D7D733DC}.Release|Default.ActiveCfg = Release
+		{2C6D6E6C-9C13-4323-B1C4-EC05D7D733DC}.Release|Default.Build.0 = Release
+		{2C6D6E6C-9C13-4323-B1C4-EC05D7D733DC}.Release|Default.Deploy.0 = Release
+		{FB412871-8CFB-433A-B7CE-B1BA04C86C3F}.Debug|Default.ActiveCfg = Debug
+		{FB412871-8CFB-433A-B7CE-B1BA04C86C3F}.Debug|Default.Build.0 = Debug
+		{FB412871-8CFB-433A-B7CE-B1BA04C86C3F}.Debug|Default.Deploy.0 = Debug
+		{FB412871-8CFB-433A-B7CE-B1BA04C86C3F}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{FB412871-8CFB-433A-B7CE-B1BA04C86C3F}.DebugLocal|Default.Build.0 = DebugLocal
+		{FB412871-8CFB-433A-B7CE-B1BA04C86C3F}.Release|Default.ActiveCfg = Release
+		{FB412871-8CFB-433A-B7CE-B1BA04C86C3F}.Release|Default.Build.0 = Release
+		{FB412871-8CFB-433A-B7CE-B1BA04C86C3F}.Release|Default.Deploy.0 = Release
+		{52B7D151-18CC-4662-95D6-FBA203C5AAD3}.Debug|Default.ActiveCfg = Debug
+		{52B7D151-18CC-4662-95D6-FBA203C5AAD3}.Debug|Default.Build.0 = Debug
+		{52B7D151-18CC-4662-95D6-FBA203C5AAD3}.Debug|Default.Deploy.0 = Debug
+		{52B7D151-18CC-4662-95D6-FBA203C5AAD3}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{52B7D151-18CC-4662-95D6-FBA203C5AAD3}.DebugLocal|Default.Build.0 = DebugLocal
+		{52B7D151-18CC-4662-95D6-FBA203C5AAD3}.Release|Default.ActiveCfg = Release
+		{52B7D151-18CC-4662-95D6-FBA203C5AAD3}.Release|Default.Build.0 = Release
+		{52B7D151-18CC-4662-95D6-FBA203C5AAD3}.Release|Default.Deploy.0 = Release
+		{0DD17BF4-ED62-4E82-8471-B9A1DF1677A9}.Debug|Default.ActiveCfg = Debug
+		{0DD17BF4-ED62-4E82-8471-B9A1DF1677A9}.Debug|Default.Build.0 = Debug
+		{0DD17BF4-ED62-4E82-8471-B9A1DF1677A9}.Debug|Default.Deploy.0 = Debug
+		{0DD17BF4-ED62-4E82-8471-B9A1DF1677A9}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{0DD17BF4-ED62-4E82-8471-B9A1DF1677A9}.DebugLocal|Default.Build.0 = DebugLocal
+		{0DD17BF4-ED62-4E82-8471-B9A1DF1677A9}.Release|Default.ActiveCfg = Release
+		{0DD17BF4-ED62-4E82-8471-B9A1DF1677A9}.Release|Default.Build.0 = Release
+		{0DD17BF4-ED62-4E82-8471-B9A1DF1677A9}.Release|Default.Deploy.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,7 +8,7 @@
     <OverwriteDataSources>False</OverwriteDataSources>
     <TargetServerVersion>SSRS2016</TargetServerVersion>
     <Platform>Win32</Platform>
-    <TargetReportFolder>CAT2/Lewiston/Egg Inventory</TargetReportFolder>
+    <TargetReportFolder>CAT2/Lewiston/Master Data</TargetReportFolder>
     <TargetDatasetFolder>CAT2/Datasets</TargetDatasetFolder>
     <TargetDatasourceFolder>CAT2/Data Sources</TargetDatasourceFolder>
     <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
@@ -22,7 +22,7 @@
     <OverwriteDataSources>False</OverwriteDataSources>
     <TargetServerVersion>SSRS2016</TargetServerVersion>
     <Platform>Win32</Platform>
-    <TargetReportFolder>Lewiston Inventory</TargetReportFolder>
+    <TargetReportFolder>Lewiston Master</TargetReportFolder>
     <TargetDatasetFolder>Datasets</TargetDatasetFolder>
     <TargetDatasourceFolder>Data Sources</TargetDatasourceFolder>
     <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
@@ -36,7 +36,7 @@
     <OverwriteDataSources>False</OverwriteDataSources>
     <TargetServerVersion>SSRS2016</TargetServerVersion>
     <Platform>Win32</Platform>
-    <TargetReportFolder>Lewiston Inventory</TargetReportFolder>
+    <TargetReportFolder>Lewiston Master</TargetReportFolder>
     <TargetDatasetFolder>Datasets</TargetDatasetFolder>
     <TargetDatasourceFolder>Data Sources</TargetDatasourceFolder>
     <TargetReportPartFolder>Report Parts</TargetReportPartFolder>
