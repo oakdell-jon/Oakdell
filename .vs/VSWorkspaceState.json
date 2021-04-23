@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.git",
     "\\Cat2 Reports",
     "\\Cat2 Reports\\Report Project1",
+    "\\Cat2 Reports\\Report Project1\\Lewiston Inventory",
     "\\Cat2 Reports\\Report Project1\\Report Project1"
   ],
-  "SelectedNode": "\\Cat2 Reports\\Report Project1\\Report Project1\\TEST.rdl",
   "PreviewInSolutionExplorer": false
 }
