@@ -19,6 +19,11 @@ Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Pasco West Production", "..
 EndProject
 Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Pasco West Shipping", "..\PWWShipping\Pasco West Shipping\Pasco West Shipping.rptproj", "{CF1589EB-4D84-449C-8A44-0663475A9688}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{598C66D4-0695-43A7-8146-3D621E4FD7D6}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Default = Debug|Default
