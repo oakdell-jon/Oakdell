@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Cat2_DS">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=SQL19-L;Initial Catalog=PPTS-LEWISTON</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>ec0365d2-39b4-4a46-927b-8baf01bd1b9e</DataSourceID>
+</RptDataSource>
