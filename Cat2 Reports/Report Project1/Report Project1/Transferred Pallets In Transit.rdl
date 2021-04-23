@@ -490,13 +490,14 @@ LEFT JOIN CAT2.LoadMaster lm on lm.LOADNUMBER = lo.LOADNUMBER AND lm.SRCWAREHOUS
                                 <Color>LightGrey</Color>
                                 <Style>Solid</Style>
                               </Border>
-                              <BackgroundColor>#365838</BackgroundColor>
+                              <BackgroundColor>Lime</BackgroundColor>
                               <PaddingLeft>2pt</PaddingLeft>
                               <PaddingRight>2pt</PaddingRight>
                               <PaddingTop>2pt</PaddingTop>
                               <PaddingBottom>2pt</PaddingBottom>
                             </Style>
                           </Textbox>
+                          <rd:Selected>true</rd:Selected>
                         </CellContents>
                       </TablixHeader>
                     </TablixMember>
@@ -646,7 +647,7 @@ LEFT JOIN CAT2.LoadMaster lm on lm.LOADNUMBER = lo.LOADNUMBER AND lm.SRCWAREHOUS
             <Top>0.20486in</Top>
             <Left>0.12991in</Left>
             <Height>0.94792in</Height>
-            <Width>5.60417in</Width>
+            <Width>5.60416in</Width>
             <Style>
               <Border>
                 <Style>None</Style>
