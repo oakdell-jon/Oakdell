@@ -48,5 +48,11 @@
     <DataSets>@(DataSet)</DataSets>
     <Reports>@(Report)</Reports>
   </PropertyGroup>
+  <ItemGroup>
+    <DataSet Include="SiteInfo.rsd" />
+  </ItemGroup>
+  <ItemGroup>
+    <DataSource Include="CAT2_DS_PSCW.rds" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>
